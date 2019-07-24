@@ -1,0 +1,15 @@
+body {
+  background-color: azure;
+}
+#addressList {
+  border: 3px solid saddlebrown;
+  background-color: blanchedalmond;
+  margin: 10px 10px 10px 10px;
+  /* padding: 5px 5px 5px 5px; */
+  /* display: flex; */
+  /* justify-content: space-evenly; */
+}
+#wishList {
+  border: 3px solid lawngreen;
+  background-color: honeydew;
+}
